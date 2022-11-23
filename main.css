@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+
+.item{
+width: 100%;
+padding:15px 0 13px 15px;
+background: aqua;
+border-radius:20px ;
+}
+.btntwoo{
+  text-align: center;
+  width: 55px;
+  height:30px;
+  border: none;
+  margin-right: 20px;
+  border-radius: 10px;
+  background: none;
+  background: #ff2f2f;
+  color: #fff;
+}
+.edit-btn{
+  background: #29f101;
+
+}
+.delete-btn{
+
+}
