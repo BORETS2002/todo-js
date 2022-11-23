@@ -6,11 +6,7 @@ if (!LoginTokin) {
   window.location.href = "/login.html"
 }
 
-
-if (!Tokens) {
-  window.location.href = "/register.html"
-}
-
+ 
 const elForm = document.querySelector(".form")
 const elinput = document.querySelector(".inputJs")
 const elList = document.querySelector(".list")
