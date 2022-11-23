@@ -10,7 +10,7 @@ const ElPasword = document.querySelector(".nomer")
 async function registerFunksion(){
 
   try {
-    const res = await fetch("http://192.168.5.86:5000/user/register", {
+    const res = await fetch("http://localhost:5000/user/register", {
     method:"POST",
 
     headers:{
